@@ -1,1 +1,2 @@
-# Tinylink
+# TinyLink Lite
+Generated.
